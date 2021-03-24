@@ -1,5 +1,4 @@
-import ChessLogic
+from chess_board import BoardGUI
 
 if __name__ == '__main__':
-    chess = ChessLogic()
-    chess.play()
+    board = BoardGUI()
