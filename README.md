@@ -1,5 +1,5 @@
 # Chess
-Chess game implemented in Python using Matplotlib as a GUI.
+The above project is a chess game implemented in Python using Matplotlib as a GUI.
 
 # Characters
 The chess pieces are unicode characters for chess pieces displayed as a text on the board. ♔♕♖♗♘♙
